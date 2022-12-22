@@ -1,0 +1,4 @@
+numpy
+findiff
+scipy
+matplotlib
