@@ -2,3 +2,4 @@ numpy
 findiff
 scipy
 matplotlib
+ipympl
